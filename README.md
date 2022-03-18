@@ -14,6 +14,7 @@ Information of following products are listed in this program   <br/><br/>
 3)Laptop <br/><br/>
 4)T.V <br/><br/>
 5)Fridge <br/><br/>
+6)A.C <br><br/>
 
 # Requirements
 
